@@ -30,3 +30,5 @@ Git tracks changes of files.
 
 
 重新从远程拉取
+
+测试仅仅是push
