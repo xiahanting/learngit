@@ -27,3 +27,6 @@ Git tracks changes of files.
 
 6月5号，我们测试一下远程多人协作，
 已经掌握，基本push操作
+
+
+重新从远程拉取
